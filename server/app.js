@@ -5,14 +5,19 @@ const mongoose = require('mongoose')
 const User = require('./model/user')
 const bcrypt = require('bcryptjs')
 const jwt = require('jsonwebtoken')
+const connectDb=require('./config/db');
+require('dotenv').config();
 
-const JWT_SECRET = 'sdjkfh8923yhjdksbfma@#*(&@*!^#&@bhjb2qiuhesdbhjdsfg839ujkdhfjk'
+const JWT_SECRET=process.env.JWT_SECRET;
 
-mongoose.connect('mongodb://localhost:27017/login-app-db', {
-	useNewUrlParser: true,
-	useUnifiedTopology: true,
-	useCreateIndex: true
-})
+// const JWT_SECRET = 'sdjkfh8923yhjdksbfma@#*(&@*!^#&@bhjb2qiuhesdbhjdsfg839ujkdhfjk'
+
+// mongoose.connect('mongodb://localhost:27017/login-app-db', {
+// 	useNewUrlParser: true,
+// 	useUnifiedTopology: true,
+// 	useCreateIndex: true
+// })
+connectDb();
 
 const app = express()
 app.use('/', express.static(path.join(__dirname, 'static')))
@@ -79,6 +84,8 @@ app.post('/api/login', async (req, res) => {
 
 app.post('/api/register', async (req, res) => {
 	const { username, password: plainTextPassword } = req.body
+	console.log(username);
+	console.log("inside register")
 
 	if (!username || typeof username !== 'string') {
 		return res.json({ status: 'error', error: 'Invalid username' })
@@ -111,9 +118,9 @@ app.post('/api/register', async (req, res) => {
 		throw error
 	}
 
-	res.json({ status: 'ok' })
+	return res.json({  status: 'ok' })
 })
 
-app.listen(4000, () => {
-	console.log('Server up at 4000')
+app.listen(3000, () => {
+	console.log('Server up at 3000')
 })
