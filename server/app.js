@@ -70,6 +70,20 @@ app.post('/login-user', async(req, res) => {
 	return res.json({ status: 'ok'})
     
 })
+
+app.post('/registration',async(req,res)=>{
+	try{
+		let {Full_Name,Current_Location,Contact_No,Discord_Id,Telegram_Id,Country,Designation}=req.body
+		const response = await User.create({
+			Full_Name,
+						password
+					})
+
+	}catch(err){
+		console.error(err);
+    	res.status(500).json({ message: 'Internal server error' });
+	}
+})
 app.listen(3000, () => {
 	console.log('App is listening on PORT 3000')
 })
