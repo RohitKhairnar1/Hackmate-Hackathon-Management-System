@@ -1,9 +1,7 @@
 const express = require('express')
 const path = require('path')
 const bodyParser = require('body-parser')
-const mongoose = require('mongoose')
 const User = require('./model/user')
-const bcrypt = require('bcryptjs')
 const checkPass=require('./utils/pass')
 const connectDb=require('./config/db');
 require('dotenv').config();
