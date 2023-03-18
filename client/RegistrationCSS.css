@@ -1,0 +1,91 @@
+/* Container styles */
+
+body {
+  background-image: url('abs2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.form-container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  background-color: #332A4D;
+  border-radius: 5px;
+  color: #fff;
+}
+/* Form styles */
+form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 30px;
+  align-items: center;
+}
+
+label {
+  font-weight: bold;
+  margin-bottom: 5px;
+
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+select,
+textarea {
+  width: 90%;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.2s ease-in-out;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="tel"]:focus,
+select:focus,
+textarea:focus {
+  outline: none;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  background-color: #fff;
+}
+
+select {
+  appearance: none;
+  padding-right: 20px;
+  background: url('https://cdn.iconscout.com/icon/free/png-256/down-arrow-1767485-1502415.png') no-repeat;
+  background-position: right 10px center;
+  background-size: 20px;
+  background-color: #fff;
+}
+
+textarea {
+  resize: vertical;
+}
+
+button[type="submit"] {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-top: 20px;
+  background-color: #4A235A;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+
+}
+
+button[type="submit"]:hover {
+  background-color: #DE3163;
+}
+
+/* Responsive styles */
+@media only screen and (max-width: 600px) {
+  form {
+    grid-template-columns: 1fr;
+  }
+}
