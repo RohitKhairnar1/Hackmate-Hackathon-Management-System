@@ -40,8 +40,12 @@ Security :
 DEMO VIDEO LINK :
 
 https://www.awesomescreenshot.com/video/15740128?key=ed2a0b061136f9bb7422feaae875d8f1
-
-DEMO IMAGES :
-
-
 <img width="960" alt="index page" src="https://user-images.githubusercontent.com/84265568/226197785-d2265cea-9185-4949-8f77-84aa923bc74b.png">
+<img width="958" alt="choose role" src="https://user-images.githubusercontent.com/84265568/226197826-d9f09974-8463-4506-b906-2d2735d75702.png">
+<img width="957" alt="organiser index" src="https://user-images.githubusercontent.com/84265568/226197835-0bfb8028-9124-4efb-9ebb-ee4c4eb666c9.png">
+<img widt<img width="955" alt="organiser profile 3" src="https://user-images.githubusercontent.com/84265568/226197854-963f5a1f-54fa-4a90-a33d-1cd9f984e6b5.png">
+h="950" alt="organiser profile 2" src="https://user-images.githubusercontent.com/84265568/226197848-54e52e2a-6e4e-4518-8983-7bdb329ebe89.png">
+<img width="959" alt="conduct hackathon" src="https://user-images.githubusercontent.com/84265568/226197891-402fdde5-f4de-48e7-a158-850a19c21346.png">
+<img width="956" alt="conduct hackathon form" src="https://user-images.githubusercontent.com/84265568/226197896-8db359e6-8d87-4e0d-b59d-1b3f9047ddde.png">
+<img width="960" alt="sponsor 1" src="https://user-images.githu<img width="958" alt="sponsor 2" src="https://user-images.githubusercontent.com/84265568/226197909-cb789e43-f6de-46ac-bd81-cae8dbc61b96.png">
+busercontent.com/84265568/226197904-dc7084e5-6b35-4b2c-9fe4-fb1c95d8c2f7.png">
