@@ -66,6 +66,7 @@ Choosing role as Organiser and participant
 
 
 <img width="960" alt="participant index" src="https://user-images.githubusercontent.com/84265568/226198735-dbc5dbe8-8bc1-45a6-9ec3-c4c391112bfa.png">
+<img width="955" alt="profile" src="https://user-images.githubusercontent.com/84265568/226198933-ac3ab723-80c3-4d53-b225-6ba64fa1124e.png">
 
 
 
