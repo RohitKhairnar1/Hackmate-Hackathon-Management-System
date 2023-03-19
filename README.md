@@ -37,9 +37,7 @@ Security :
 -----> We have used .env file for database credential.
 
 
-DEMO VIDEO LINK :
 
-https://www.awesomescreenshot.com/video/15740128?key=ed2a0b061136f9bb7422feaae875d8f1
 <img width="960" alt="index page" src="https://user-images.githubusercontent.com/84265568/226197785-d2265cea-9185-4949-8f77-84aa923bc74b.png">
 <img width="958" alt="choose role" src="https://user-images.githubusercontent.com/84265568/226197826-d9f09974-8463-4506-b906-2d2735d75702.png">
 <img width="957" alt="organiser index" src="https://user-images.githubusercontent.com/84265568/226197835-0bfb8028-9124-4efb-9ebb-ee4c4eb666c9.png">
@@ -77,3 +75,9 @@ ading about page 1.png…]()
 
 
 <img width="957" alt="db" src="https://user-images.githubusercontent.com/84265568/226198297-4a0f780d-b840-41fa-8a51-a1c5b8d0a4cb.png">
+
+
+
+DEMO VIDEO LINK :
+
+https://www.awesomescreenshot.com/video/15740128?key=ed2a0b061136f9bb7422feaae875d8f1
