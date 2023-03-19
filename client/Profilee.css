@@ -35,9 +35,6 @@ nav .logo{
     
     
 }
-.animate__animated.animate__bounce {
-    --animate-duration: infinite;
-  }
   
 
 nav .menu{
@@ -124,7 +121,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: rgba(0,0,0,0.2);
+  background-color: #1C2833;
   padding: 20px;
   position: fixed;
   top: 0;
@@ -163,26 +160,26 @@ nav .nav-links li a:hover {
 
 .container {
   max-width: 1000px;
-  margin: 400px auto 0;
+  margin: 200px auto 0;
   padding: 20px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  background-color:#1C2833;
+  background-color: #1C2833 ;
 }
 
 
 .profile {
-  width: calc(33.33% - 10px);
-  margin-bottom: 20px;
-  background-color: #1C2833;
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.6);
+  width: calc(100% - 10px);
+  margin-bottom: 2px;
+  background-color: #1C2833  ;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
   border-radius: 5px;
   overflow: hidden;
 }
 
 .profile img {
-  width: 100%;
+  width: 40%;
   height: 200px;
   object-fit: cover;
 }
@@ -201,7 +198,7 @@ nav .nav-links li a:hover {
   display: block;
   margin: 20px auto;
   padding: 10px 20px;
-  background-color: #DE3163;
+  background-color:  #1C2833 ;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -217,7 +214,7 @@ nav .nav-links li a:hover {
 
 .general-info {
   padding: 50px;
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color:  #1C2833 ;
   text-align: center;
   color : white ;
 }
@@ -232,7 +229,7 @@ nav .nav-links li a:hover {
 
 .info-button {
   padding: 10px 30px;
-  background-color: #1976d2;
+  background-color: #DE3163;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -241,5 +238,5 @@ nav .nav-links li a:hover {
 }
 
 .info-button:hover {
-  background-color: #DE3163;
+  background-color:  #1976d2;
 }
