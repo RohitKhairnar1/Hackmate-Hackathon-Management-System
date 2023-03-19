@@ -9,6 +9,7 @@ const UserSchema = new mongoose.Schema(
 	{ collection: 'users' }
 )
 
+
 const model = mongoose.model('UserSchema', UserSchema)
 
 module.exports = model
