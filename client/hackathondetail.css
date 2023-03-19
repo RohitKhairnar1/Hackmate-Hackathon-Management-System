@@ -209,7 +209,10 @@ nav .nav-links li a:hover {
 .send-request-button:hover {
   background-color: #1976d2;
 }
-
+.send-request-button a{
+  text-decoration: none;
+  color: white;
+}
 
 .general-info {
   padding: 50px;
@@ -297,5 +300,5 @@ nav .nav-links li a:hover {
 }
 
 .feedback-container input[type="submit"]:hover {
-	background-color: #3e8e41;
+	background-color: #1976d2;
 }

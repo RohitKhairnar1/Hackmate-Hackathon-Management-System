@@ -233,7 +233,7 @@ nav .nav-links li a:hover {
 
 .info-button {
   padding: 10px 30px;
-  background-color: #1976d2;
+  background-color: #DE3163;
   color: #fff;
   border: none;
   border-radius: 5px;
@@ -242,5 +242,5 @@ nav .nav-links li a:hover {
 }
 
 .info-button:hover {
-  background-color: #DE3163;
+  background-color: #1976d2;
 }

@@ -118,11 +118,12 @@ app.post('/registration', async (req, res) => {
 
 app.post('/feedback', async (req, res) => {
 	try {
-		let {name,email,feedback} = req.body
+		let {name,email,feedback,repo} = req.body
 		const result = await Feedback.create({
 			name,
 			email,
-			feedback
+			feedback,
+			repo
 		})
 		console.log('Registration successfull: ', result)
         return res.redirect('popup.html')

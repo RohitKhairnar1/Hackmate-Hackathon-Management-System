@@ -67,7 +67,7 @@ main{
 }
 
 
-}
+
 .btone{
     background: white;
     color: black;
@@ -241,6 +241,10 @@ ol li {
   color: #790B0B;
   counter-increment: item;
 }
+ol li a{
+  text-decoration: none;
+  color: #790B0B;
+}
 
 ol li:before {
   content: counter(item) ".";
@@ -270,7 +274,10 @@ ol li:before {
   cursor: pointer;
   margin-right: 10px;
 }
-
+.button-primary:hover{
+  background-color: #1976d2;
+  color: #fff;
+}
 .button-secondary {
   background-color: #DE3163;
   color: #fff;
@@ -280,4 +287,8 @@ ol li:before {
   font-size: 16px;
   cursor: pointer;
   margin-left: 10px;
+}
+.button-secondary:hover{
+  background-color: #1976d2;
+  color: #fff;
 }
