@@ -23,13 +23,17 @@ Here are some instructions to get you started:
 Software Used :
 
 -----> We have done the fronted using HTML , CSS , JS.
+
 -----> We have created the database using the MONGO DB .
+
 -----> And the backend is done with the help of Node JS , Bcrypt JS.
 
 Security :
 
 -----> The password that user enters is Hashed using the Bcrypt JS .
+
 -----> when the user logins the password is compared with the hash password in the DB using BcryptJS  .
+
 -----> We have used .env file for database credential.
 
 DEMO VIDEO LINK :
