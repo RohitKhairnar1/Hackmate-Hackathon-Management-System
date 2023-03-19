@@ -29,13 +29,22 @@
 			<p>The event will take place on the weekend of April 15-16, 2023, and will be held virtually. The event will kick off on Friday evening, and teams will have until Saturday evening to complete their projects. We will provide mentorship and resources throughout the event to help you build the best possible solution.</p>
 			
                   
-                  <button class="send-request-button"><a href="onlinehackathon.html">Register</a></button>
-                  <form>
-				
-                    <textarea id="comment-box" name="comment" rows="7" cols="110" placeholder="Write a comment or any query" ></textarea>
-                    <br>
-                    <button class="send-request-button"type="submit">Submit</button>
-                </form>
+                  <button class="send-request-button"><a href="Registration.html">Register</a></button>
+                  <div class="feedback-container">
+                    <h1>Hackathon Query Form</h1>
+                    <form action="/comment" method="POST">
+                        <label for="name">Name:</label><br>
+                        <input type="text" id="name" name="name" placeholder="Enter your name" required><br><br>
+                        <label for="email">Email:</label><br>
+                        <input type="email" id="email" name="email" placeholder="Enter your email" required><br><br>
+                        <label for="comment">Query:</label><br> 
+                        <textarea id="feedback" name="comment" placeholder="Enter your query here..." required></textarea><br><br>
+                        <input type="submit" value="Submit"><a href="popup.html"></a>
+                    </form>
+                  </div>
+                  
+                    
+                
                 </div>
                
             </div>

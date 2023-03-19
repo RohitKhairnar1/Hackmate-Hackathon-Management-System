@@ -3,6 +3,8 @@ const path = require('path')
 const bodyParser = require('body-parser')
 const User = require('./model/user')
 const Registration=require('./model/registration')
+const Feedback=require('./model/feedback')
+const Comment=require('./model/comment')
 const checkPass = require('./utils/pass')
 const bcrypt=require('bcryptjs')
 const connectDb = require('./config/db');
@@ -112,6 +114,38 @@ app.post('/registration', async (req, res) => {
 		res.status(500).json({ message: 'Internal server error' });
 	}
 })
+
+app.post('/feedback', async (req, res) => {
+	try {
+		let {name,email,feedback} = req.body
+		const result = await Feedback.create({
+			name,
+			email,
+			feedback
+		})
+		console.log('Registration successfull: ', result)
+        return res.redirect('popup.html')
+	} catch (err) {
+		console.error(err);
+		res.status(500).json({ message: 'Internal server error' });
+	}
+})
+app.post('/comment', async (req, res) => {
+	try {
+		let {name,email,comment} = req.body
+		const result = await Comment.create({
+			name,
+			email,
+			comment
+		})
+		console.log('Registration successfull: ', result)
+        return res.redirect('popup.html')
+	} catch (err) {
+		console.error(err);
+		res.status(500).json({ message: 'Internal server error' });
+	}
+})
+
 app.listen(3000, () => {
 	console.log('App is listening on PORT 3000')
 })
