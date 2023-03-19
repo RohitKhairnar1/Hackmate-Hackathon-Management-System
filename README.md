@@ -6,6 +6,8 @@ This system is designed to help you organize, manage and participate in hackatho
 
 Uniqueness : As a student we face difficulty in finding team mates for the hackathon , therefore to solve this issue we have added a community page so that the user can connect with other people to find a teammate . We have also added a Sponsors page that make it easier for the organiser to find the sponsors on the spot and with least effort . 
 
+The data of the participants will be available at the organizers end in a systematic tabular format, that makes it easier for the organizers to manage the event .Also Participants can submit repositories and their feedback about the event by clicking on the respective hackathon in live hackathons section, which is in their profile section.
+
 Here are some instructions to get you started:
 
 1. Login or Sign up: To use the system, you'll need to create an account or login with an existing one. This will give you access to all the features of the system.
