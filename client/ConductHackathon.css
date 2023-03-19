@@ -68,13 +68,17 @@ body {
     width: 100%;
     padding: 10px;
     margin-top: 20px;
-    background-color: #4A235A;
+    background-color: #896697;
     color: #fff;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.2s ease-in-out;
   
+  }
+  button[type="submit"] a{
+    text-decoration: none;
+    color: #fff;
   }
   
   button[type="submit"]:hover {

@@ -7,49 +7,39 @@
 <body>
 	<div class="form-container">
 		<h2 align="center">Hackathon Detail Form<br><br></h2>
-		<form>
+		<form action="/conduct-hackathon" method="POST">
 			<label for="name">Name of Event</label>
 			<input type="text" id="name" name="name" required>
 
-			<label for="email">Date of Event</label>
-			<input type="email" id="email" name="email" required>
+			<label for="date">Date of Event</label>
+			<input type="date" id="email" name="date" required>
 
-			<label for="phone">Venue of Event</label>
-			<input type="tel" id="phone" name="phone" required>
+			<label for="venue">Venue of Event</label>
+			<input type="text" id="phone" name="venue" required>
 
-			<label for="school">Time of Event</label>
-			<input type="text" id="College" name="College" required>
+			<label for="time">Time of Event</label>
+			<input type="time" id="College" name="time" required>
 
-			<label for="major">Project Description</label>
-			<input type="text" id="major" name="major" required>
+			<label for="projectDescription">Project Description</label>
+			<input type="text" id="major" name="projectDescription" required>
 
-			<label for="year">Project Category</label>
-			<select id="year" name="year" required>
+			<label for="category">Project Category</label>
+			<select id="year" name="category" required>
 				<option value="">--Select--</option>
-				<option value="FE">Competitive Programming</option>
-				<option value="SE">Ed Tech</option>
-				<option value="TE">Healthcare</option>
-				<option value="BE">Social Impact </option>
-				<option value="graduate">Design</option>
-				<option value="graduate">Gaming</option>
-                <option value="graduate">Hardware</option>
-                <option value="graduate">Open Data</option>
-                <option value="graduate">Virtual Reality</option>
+				<option value="Competitive Programming">Competitive Programming</option>
+				<option value="EdTech">Ed Tech</option>
+				<option value="Healthcare">Healthcare</option>
+				<option value="Social Impact">Social Impact </option>
+				<option value="Design">Design</option>
+				<option value="Gaming">Gaming</option>
+                <option value="Hardware">Hardware</option>
+                <option value="Open Data">Open Data</option>
+                <option value="Virtual Reality">Virtual Reality</option>
 			</select>
-
-			<!-- <label for="gender"></label>
-			<select id="gender" name="gender" required>
-				<option value="">--Select--</option>
-				<option value="male">Male</option>
-				<option value="female">Female</option>
-				<option value="non-binary">Non-binary</option>
-				<option value="other">Other</option>
-			</select> -->
-
-			<label for="age">Eligibility Criteria</label>
-			<input type="text" id="major" name="major" required>
-            <label for="team-size">Team Size:</label>
-			<select id="team-size" name="team-size" required>
+			<label for="criteria">Eligibility Criteria</label>
+			<input type="text" id="major" name="criteria" required>
+            <label for="teamsize">Team Size:</label>
+			<select id="team-size" name="teamsize" required>
 				<option value="">--Select--</option>
 				<option value="1">1</option>
 				<option value="2">2</option>
@@ -57,14 +47,14 @@
 				<option value="4">4</option>
 				<option value="5">5</option>
 			</select>
-			<label for="dietary">Extra Info:</label>
-			<textarea id="Info" name="Info"></textarea>
+			<label for="info">Extra Info:</label>
+			<textarea id="Info" name="info"></textarea>
 
 			
 
 			
 <br><br>
-			<button type="submit" ><a href="popup.html">Register</a></button>
+			<button type="submit" ><a href="organiserpopup.html">Submit</a></button>
 		</form>
 	</div>
 	
