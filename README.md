@@ -46,32 +46,72 @@ Login Page
 
 Choosing role as Organiser and participant
 <img width="958" alt="choose role" src="https://user-images.githubusercontent.com/84265568/226197826-d9f09974-8463-4506-b906-2d2735d75702.png">
-<img width="957" alt="organiser index" src="https://user-images.githubusercontent.com/84265568/226197835-0bfb8028-9124-4efb-9ebb-ee4c4eb666c9.png">
-<img widt<img width="955" alt="organiser profile 3" src="https://user-images.githubusercontent.com/84265568/226197854-963f5a1f-54fa-4a90-a33d-1cd9f984e6b5.png">
-<img width="959" alt="conduct hackathon" src="https://user-images.githubusercontent.com/84265568/226197891-402fdde5-f4de-48e7-a158-850a19c21346.png">
-<img width="956" alt="conduct hackathon form" src="https://user-images.githubusercontent.com/84265568/226197896-8db359e6-8d87-4e0d-b59d-1b3f9047ddde.png">
-<img width="960" alt="sponsor 1" src="https://user-images.githu<img width="958" alt="sponsor 2" src="https://user-images.githubusercontent.com/84265568/226197909-cb789e43-f6de-46ac-bd81-cae8dbc61b96.png">
-<img width="960" alt="sponsor 1" src="https://user-images<img width="960" alt="past hackathons conducted" src="https://user-images.githubusercontent.com/84265568/226197970-dec54788-2083-4d4c-b251-a037238c2783.png">
-<img width="959" alt="past hackathon conducted detail 2" src="https://user-images.githubusercontent.com/84265568/226197983-0325468c-27a3-421a-bb8d<img width="960" alt="participant index" src="https://user-images.githubusercontent.com/84265568/226197999-b5dba46d-8603-41b9-80ce-b0e58f4d262c.png">
--64f93b28357f.png">
-<img width="960" alt="about page 1" src="https://user-images.githubusercontent.com/84265568/226198072-58b70a98-98ee-4067-ad3a-62e1020848d1.png">
-<img width="943" alt="about us 2" src="https://user-images.githubusercontent.com/84265568/226198128-a050ec17-cbd6-4195-9aa2-93b6924b810b.png">
-<img width="955" alt="hackathon detail 1" src="https://user-images.githubusercontent.com/84265568/226198129-21bce7e7-cd5f-4384-8e6a-494f9308dee9.png">
-<img width="960" alt="about page 1" src="https://user-images.githubusercontent.com/84265568/226198130-738e93f9-1a42-42cc-bf1c-ac95c0657763.png">
-<img width="960" alt="hackathon detail 2" src="https://user-images.githubusercontent.com/84265568/226198131-3ae9e8e1-cd96-4db0-b4cd-1e3b9a8713ba.png">
-<img width="960" alt="hackathon page" src="https://user-images.githubusercontent.com/84265568/226198132-7e37b93d-39cf-45f3-8213-22449bdf885c.png">
- <img width="949" alt="community page" src="https://user-images.githubusercontent.com/84265568/226198274-b0c9f73e-137b-4249-9199-6b11c14ec428.png">
-<img width="960" alt="community page 2" src="https://user-images.githubusercontent.com/84265568/226198281-3da48f40-f43b-49d3-a9bc-43d2cf7b3f87.png">                                                                                                                                                
-<img width="943" alt="about us 2" src="https://user-images.githubusercontent.com/84265568/226198138-a59e43d7-fae2-4c3e-9217-8fcaa5cc8772.png">
-<img width="955" alt="hackathon detail 1" src="https://user-images.githubusercontent.com/84265568/226198139-c24c55f0-1aee-4b06-9751-4df2a53b3c72.png">
-<img width="960" alt="online hacckathon button" src="https://user-images.githubusercontent.com/84265568/226198140-ca01397f-861d-4a0a-bcd7-1cecd5779619.png">
-<img width="960" alt="hackathon detail 2" src="https://user-images.githubusercontent.com/84265568/226198144-1845a4dc-4fca-4665-9cc8-5897972569fa.png">
-<img width="960" alt="hackathon page" src="https://user-images.githubusercontent.com/84265568/226198145-a3ee7e72-0955-47ca-aa06-1635daecb3ea.png">
-<img width="960" alt="online hacckathon button" src="https://user-images.githubusercontent.com/84265568/226198154-bd9de9cb-60b7-48fa-8e39-c2eae4527f6e.png">
-<img width="946" alt="participant profile 3" src="https://user-images.githubusercontent.com/84265568/226198155-427b6fa1-d6d8-4f42-b3d0-acc1f7943e2f.png">
+<img width="959" alt="organiser profile 1" src="https://user-images.githubusercontent.com/84265568/226198617-0104006f-3bcb-4ef0-a53b-5fa58aa2ca1d.png">
+<img width="950" alt="organiser profile 2" src="https://user-images.githubusercontent.com/84265568/226198624-5e853f72-2bc9-49e6-a2fc-0b4e931a0600.png">
+<img width="955" alt="organiser profile 3" src="https://user-images.githubusercontent.com/84265568/226198634-112ca075-0621-49eb-b9ce-233159644e0a.png">
+<img width="959" alt="conduct hackathon" src="https://user-images.githubusercontent.com/84265568/226198648-ce00909e-306f-4f10-88a0-d14c47bdaec4.png">
+<img width="956" alt="conduct hackathon form" src="https://user-images.githubusercontent.com/84265568/226198661-19a8819c-674f-4642-a463-733ca3290ad0.png">
 
-<img width="960" alt="participant profile 4" src="https://user-images.githubusercontent.com/84265568/226198125-9f3df516-4b53-4037-86f2-fe4c1210befa.png">
+<img width="960" alt="sponsor 1" src="https://user-images.githubusercontent.com/84265568/226198694-6bbd1645-8b39-43ad-a298-711f793ace58.png">
+<img width="958" alt="sponsor 2" src="https://user-images.githubusercontent.com/84265568/226198704-dcfa0c7f-6092-4aef-98c0-9feac658e0c1.png">
+
+<img width="960" alt="past hackathons conducted" src="https://user-images.githubusercontent.com/84265568/226198712-23e3a023-561c-49fe-ada9-b69908b0652c.png">
+
+
+<img width="960" alt="past hackathon conducted detail" src="https://user-images.githubusercontent.com/84265568/226198717-5c9c54fd-97d8-4eb0-b6c9-61d9e488785d.png">
 
 
 
-<img width="957" alt="db" src="https://user-images.githubusercontent.com/84265568/226198297-4a0f780d-b840-41fa-8a51-a1c5b8d0a4cb.png">
+<img width="959" alt="past hackathon conducted detail 2" src="https://user-images.githubusercontent.com/84265568/226198722-7190557c-b4e5-44eb-93f6-a6ed68e021ad.png">
+
+
+<img width="960" alt="participant index" src="https://user-images.githubusercontent.com/84265568/226198735-dbc5dbe8-8bc1-45a6-9ec3-c4c391112bfa.png">
+
+
+
+<img width="960" alt="participant profile 2" src="https://user-images.githubusercontent.com/84265568/226198743-10b49a39-a289-43be-8852-51894dcf08ff.png">
+
+
+<img width="946" alt="participant profile 3" src="https://user-images.githubusercontent.com/84265568/226198749-7fe52b23-db77-4a1e-8e4c-5a3aff0fec77.png">
+
+
+
+
+<img width="960" alt="participant profile 4" src="https://user-images.githubusercontent.com/84265568/226198756-3d9cc9db-5cb6-4f53-a806-3511d4b77958.png">
+
+
+
+
+<img width="960" alt="hackathon page" src="https://user-images.githubusercontent.com/84265568/226198767-471e9a8a-ea5f-48c3-aa15-88ef306d83e8.png">
+
+
+<img width="955" alt="hackathon detail 1" src="https://user-images.githubusercontent.com/84265568/226198774-8a297d7b-11a0-4df0-926d-5eb687fd2257.png">
+
+
+<img width="960" alt="hackathon detail 2" src="https://user-images.githubusercontent.com/84265568/226198780-d98a4ad8-a908-4fd9-9839-c28e73c1eb8e.png">
+
+
+
+<img width="949" alt="community page" src="https://user-images.githubusercontent.com/84265568/226198792-63bce842-a16b-4545-8b89-3ba0161322ef.png">
+
+
+
+<img width="960" alt="community page 2" src="https://user-images.githubusercontent.com/84265568/226198798-6ee0090f-bc39-4e48-aba0-746783c36a01.png">
+
+
+
+<img width="960" alt="about page 1" src="https://user-images.githubusercontent.com/84265568/226198813-b5a93f34-bbb9-44b9-b440-fd07cf85085f.png">
+
+
+
+<img width="943" alt="about us 2" src="https://user-images.githubusercontent.com/84265568/226198821-4cf13e17-bbd8-434c-8db3-c71a84b193ff.png">
+
+
+
+<img width="957" alt="db" src="https://user-images.githubusercontent.com/84265568/226198829-4f89dd58-66d4-49bd-a2a5-df0a80dc3965.png">
+
+
+
+
+
+
