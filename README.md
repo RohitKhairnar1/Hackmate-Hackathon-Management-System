@@ -46,7 +46,14 @@ https://www.awesomescreenshot.com/video/15740128?key=ed2a0b061136f9bb7422feaae87
 
 
 Login Page
-<img width="960" alt="index page" src="https://user-images.githubusercontent.com/84265568/226197785-d2265cea-9185-4949-8f77-84aa923bc74b.png">
+
+
+<img width="959" alt="login new" src="https://user-images.githubusercontent.com/84265568/226199930-aa6a6d00-64ce-4e23-9573-87909dc4fb59.png">
+
+Sign up
+
+<img width="959" alt="sign up" src="https://user-images.githubusercontent.com/84265568/226200005-be64c562-d171-437e-bb97-4a40abc4d540.png">
+
 
 Choosing role as Organiser and participant
 <img width="958" alt="choose role" src="https://user-images.githubusercontent.com/84265568/226197826-d9f09974-8463-4506-b906-2d2735d75702.png">
@@ -85,6 +92,7 @@ Choosing role as Organiser and participant
 <img width="960" alt="participant profile 4" src="https://user-images.githubusercontent.com/84265568/226198756-3d9cc9db-5cb6-4f53-a806-3511d4b77958.png">
 
 
+<img width="939" alt="live hackathon project submission" src="https://user-images.githubusercontent.com/84265568/226199959-b7b4363d-b863-48f4-bdd6-fea85b315e09.png">
 
 
 <img width="960" alt="hackathon page" src="https://user-images.githubusercontent.com/84265568/226198767-471e9a8a-ea5f-48c3-aa15-88ef306d83e8.png">
@@ -95,6 +103,10 @@ Choosing role as Organiser and participant
 
 <img width="960" alt="hackathon detail 2" src="https://user-images.githubusercontent.com/84265568/226198780-d98a4ad8-a908-4fd9-9839-c28e73c1eb8e.png">
 
+<img width="947" alt="register hackathon" src="https://user-images.githubusercontent.com/84265568/226199976-ef091999-7ce1-498c-ab85-295d318370a0.png">
+
+
+<img width="940" alt="register hackathon 2" src="https://user-images.githubusercontent.com/84265568/226199981-52903a89-e8bc-4c4a-a311-981181b1fb67.png">
 
 
 <img width="949" alt="community page" src="https://user-images.githubusercontent.com/84265568/226198792-63bce842-a16b-4545-8b89-3ba0161322ef.png">
