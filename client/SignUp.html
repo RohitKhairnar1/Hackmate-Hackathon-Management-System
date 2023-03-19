@@ -8,15 +8,16 @@
     <div class="bg-image"></div>
     <div class="signup-form">
       <h2>Sign Up</h2>
-      <form>
+      <form action="/register-user" method="POST">
         <label for="username">Username:</label>
-        <input type="text" id="username" name="username" required>
+        <input type="text" id="username"  class="name" name="name" required>
         <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required>
+        <input type="email" id="email" class="email" name="email" required>
         <label for="password">Password:</label>
-        <input type="password" id="password" name="password" required>
-        <input type="submit" value="Sign Up">
+        <input type="password" id="password" class="password" name="password" required>
+        <input type="submit" class="submit-btn" value="Sign Up">
       </form>
     </div>
+    <script src="js/form.js"></script>
   </body>
 </html>

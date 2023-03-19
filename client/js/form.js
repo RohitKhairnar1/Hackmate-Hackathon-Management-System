@@ -8,7 +8,7 @@ form.forEach((item, i) => {
 
 window.onload = () => {
     if(sessionStorage.name){
-        location.href = '/';
+        location.href = 'http://localhost:3000/';
     }
 }
 
@@ -21,7 +21,7 @@ const submitBtn = document.querySelector('.submit-btn');
 
 if(name == null){ // means login page is open
     submitBtn.addEventListener('click', () => {
-        fetch('/login-user',{
+        fetch('http://localhost:3000/login-user',{
             method: 'post',
             headers: new Headers({'Content-Type': 'application/json'}),
             body: JSON.stringify({
@@ -37,7 +37,7 @@ if(name == null){ // means login page is open
 } else{ // means register page is open
 
     submitBtn.addEventListener('click', () => {
-        fetch('/register-user', {
+        fetch('http://localhost:3000/register-user', {
             method: 'post',
             headers: new Headers({'Content-Type': 'application/json'}),
             body: JSON.stringify({
@@ -60,7 +60,7 @@ const validateData = (data) => {
     } else{
         sessionStorage.name = data.name;
         sessionStorage.email = data.email;
-        location.href = '/';
+        location.href = 'http://localhost:3000/';
     }
 }
 
