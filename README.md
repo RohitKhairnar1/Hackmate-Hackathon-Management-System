@@ -1,4 +1,4 @@
-# HackSquad_Hackdays-Sellular
+Hackathon Management System (Hackmate)
 
 Welcome to HACKMATE !  
 
